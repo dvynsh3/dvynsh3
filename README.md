@@ -35,9 +35,4 @@ Every project runs in the browser or on the desktop with no account. Each repo's
 
 - AI-assisted product discovery and rapid prototyping
 - Activation and retention loops, and B2B and consumer workflow design
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/divyansh3) · [Email](mailto:divyansh.work25@gmail.com)
+- 
